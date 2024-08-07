@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\regression"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\regression\\regression_1.py",
   "PreviewInSolutionExplorer": false
 }
